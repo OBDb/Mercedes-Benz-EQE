@@ -1,0 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_EQE"
+
+generations:
+  - name: "First Generation (V295)"
+    start_year: 2022
+    end_year: present
+    description: "The Mercedes-Benz EQE (V295) is a battery electric executive car produced by German automobile manufacturer Mercedes-Benz Group. It is part of the EQ family, and was presented at the Munich Motor Show 2021. Production began in 2022 using the Mercedes-Benz EVA platform. The vehicle features a 90.6 kWh lithium-ion battery with options for single motor RWD or dual motor AWD configurations."
+    platform: "Mercedes-Benz EVA"
